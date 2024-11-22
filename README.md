@@ -40,6 +40,6 @@ To get a local copy up and running, follow these steps:
    ```bash
    git clone https://github.com/yourusername/yourproject.git
 
-2. **Run the Scrapping code.py file**: This will scrap the data from the internet about customer reviews for a given product. Make sure to change the url and product name in there accoerding to the need.
-3. **Run the annotate_llm.ipynb**: Once you mannually annotate the data as in `Human_annotations.csv` file you can use this file to annotate your data using a given LLM model. Make sure to change the api_key of the model and also mention the model you want to use in the code for the annotation task.
-4. **Run the Project_code.ipynb**: At the end run this file to get all the analysis and results discussed in the project report. This file picks the human and LLM annotated data and shows the ananlyses done on them. Also, there is a section that shows how to create a basic clasification model for the labels annotated and their performance.
+2. **Run the Scrapping code.py file**: This will scrape data from the internet about customer reviews for a given product. Make sure to change the URL and product name in the code according to your needs.
+3. **Run the annotate_llm.ipynb**: Once you manually annotate the data as in the `Human_annotations.csv file`, you can use this notebook to annotate your data using a given LLM model. Make sure to change the API key of the model and also specify the model you want to use in the code for the annotation task.
+4. **Run the Project_code.ipynb**: Finally, run this notebook to get all the analysis and results discussed in the project report. This notebook uses the human and LLM annotated data and shows the analyses done on them. Additionally, there is a section that demonstrates a basic classification model for the annotated labels and evaluates their performance.
