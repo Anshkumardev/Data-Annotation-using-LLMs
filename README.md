@@ -1,4 +1,4 @@
-# Project Title
+# Using Large Language Models as Data Annotators
 
 ## Introduction
 
