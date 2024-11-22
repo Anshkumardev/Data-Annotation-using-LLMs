@@ -1,4 +1,4 @@
-# Using Large Language Models as Data Annotators
+# Using Large Language Models (LLMs) as Data Annotators
 
 ## Introduction
 
