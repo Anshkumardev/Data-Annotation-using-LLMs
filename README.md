@@ -38,7 +38,7 @@ To get a local copy up and running, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/Anshkumardev/Data-Annotation-using-LLMs
 
 2. **Run the Scrapping code.py file**: This will scrape data from the internet about customer reviews for a given product. Make sure to change the URL and product name in the code according to your needs.
 3. **Run the annotate_llm.ipynb**: Once you manually annotate the data as in the `Human_annotations.csv file`, you can use this notebook to annotate your data using a given LLM model. Make sure to change the API key of the model and also specify the model you want to use in the code for the annotation task.
